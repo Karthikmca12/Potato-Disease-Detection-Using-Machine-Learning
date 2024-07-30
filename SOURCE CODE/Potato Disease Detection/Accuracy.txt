@@ -1,0 +1,7 @@
+Potato disease detection
+
+Model: VGG16 architecture
+
+Accuracy score:  1.00 
+
+
